@@ -1,0 +1,7 @@
+[gerrit]
+host=gerrit
+port=29418
+project=gcs_automation.git
+defaultbranch=master
+defaultremote=origin
+defaultrebase=0
